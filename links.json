@@ -1,0 +1,682 @@
+[
+  {
+    "name": "ADHD (7)",
+    "url": "https://www.netmeds.com/prescriptions/adhd"
+  },
+  {
+    "name": "Acne (401)",
+    "url": "https://www.netmeds.com/prescriptions/acne"
+  },
+  {
+    "name": "Alcohol Addiction (12)",
+    "url": "https://www.netmeds.com/prescriptions/alcohol-addiction"
+  },
+  {
+    "name": "Allergies (893)",
+    "url": "https://www.netmeds.com/prescriptions/allergies"
+  },
+  {
+    "name": "Alzheimer (91)",
+    "url": "https://www.netmeds.com/prescriptions/alzheimer"
+  },
+  {
+    "name": "Amoebiasis (14)",
+    "url": "https://www.netmeds.com/prescriptions/amoebiasis"
+  },
+  {
+    "name": "Anaemia (47)",
+    "url": "https://www.netmeds.com/prescriptions/anaemia"
+  },
+  {
+    "name": "Anaesthesia - Local (72)",
+    "url": "https://www.netmeds.com/prescriptions/anaesthesia-local"
+  },
+  {
+    "name": "Anaesthesia General (1)",
+    "url": "https://www.netmeds.com/prescriptions/anaesthesia-general"
+  },
+  {
+    "name": "Anal Fissure (3)",
+    "url": "https://www.netmeds.com/prescriptions/anal-fissure"
+  },
+  {
+    "name": "Angina (232)",
+    "url": "https://www.netmeds.com/prescriptions/angina"
+  },
+  {
+    "name": "Anti allergic (0)",
+    "url": "https://www.netmeds.com/prescriptions/anti-allergic"
+  },
+  {
+    "name": "Anti-Scar (2)",
+    "url": "https://www.netmeds.com/prescriptions/anti-scar"
+  },
+  {
+    "name": "Antibiotic (4)",
+    "url": "https://www.netmeds.com/prescriptions/antibiotic"
+  },
+  {
+    "name": "Anxiety (36)",
+    "url": "https://www.netmeds.com/prescriptions/anxiety"
+  },
+  {
+    "name": "Apnea (1)",
+    "url": "https://www.netmeds.com/prescriptions/apnea"
+  },
+  {
+    "name": "Appetite (37)",
+    "url": "https://www.netmeds.com/prescriptions/appetite"
+  },
+  {
+    "name": "Arrhythmiasis (29)",
+    "url": "https://www.netmeds.com/prescriptions/arrhythmiasis"
+  },
+  {
+    "name": "Arthritis (142)",
+    "url": "https://www.netmeds.com/prescriptions/arthritis"
+  },
+  {
+    "name": "Asthma/COPD (741)",
+    "url": "https://www.netmeds.com/prescriptions/asthma-copd"
+  },
+  {
+    "name": "Atopic Dermatitis(Eczema) (63)",
+    "url": "https://www.netmeds.com/prescriptions/atopic-dermatitis-eczema"
+  },
+  {
+    "name": "Auto Immune Disease (196)",
+    "url": "https://www.netmeds.com/prescriptions/auto-immune-disease"
+  },
+  {
+    "name": "Ayurvedic Medicine (117)",
+    "url": "https://www.netmeds.com/prescriptions/ayurvedic-medicine"
+  },
+  {
+    "name": "Bacterial Infections (2756)",
+    "url": "https://www.netmeds.com/prescriptions/bacterial-infections"
+  },
+  {
+    "name": "Bladder And Prostate Disorders (367)",
+    "url": "https://www.netmeds.com/prescriptions/bladder-and-prostate-disorders"
+  },
+  {
+    "name": "Bleeding Disorders (126)",
+    "url": "https://www.netmeds.com/prescriptions/bleeding-disorders"
+  },
+  {
+    "name": "Blood Clot (616)",
+    "url": "https://www.netmeds.com/prescriptions/blood-clot"
+  },
+  {
+    "name": "Bone Metabolism (49)",
+    "url": "https://www.netmeds.com/prescriptions/bone-metabolism"
+  },
+  {
+    "name": "Burns (6)",
+    "url": "https://www.netmeds.com/prescriptions/burn"
+  },
+  {
+    "name": "CNS stimulants (0)",
+    "url": "https://www.netmeds.com/prescriptions/cns-stimulant"
+  },
+  {
+    "name": "Cancer Oncology (486)",
+    "url": "https://www.netmeds.com/prescriptions/cancer-oncology"
+  },
+  {
+    "name": "Cardiac Arrest (0)",
+    "url": "https://www.netmeds.com/prescriptions/cardiac-arrest"
+  },
+  {
+    "name": "Cholelithiasis/Gall Stones (100)",
+    "url": "https://www.netmeds.com/prescriptions/cholelithiasis-gall-stones"
+  },
+  {
+    "name": "Cleanser (149)",
+    "url": "https://www.netmeds.com/prescriptions/cleanser"
+  },
+  {
+    "name": "Colon Cleanser (0)",
+    "url": "https://www.netmeds.com/prescriptions/colon-cleanser"
+  },
+  {
+    "name": "Constipation (267)",
+    "url": "https://www.netmeds.com/prescriptions/constipation"
+  },
+  {
+    "name": "Contraception (73)",
+    "url": "https://www.netmeds.com/prescriptions/contraception"
+  },
+  {
+    "name": "Cough And Cold (888)",
+    "url": "https://www.netmeds.com/prescriptions/cough-and-cold"
+  },
+  {
+    "name": "Crack (0)",
+    "url": "https://www.netmeds.com/prescriptions/crack"
+  },
+  {
+    "name": "Dandruff (92)",
+    "url": "https://www.netmeds.com/prescriptions/dandruff"
+  },
+  {
+    "name": "Denture Adhesive (4)",
+    "url": "https://www.netmeds.com/prescriptions/denture-adhesive"
+  },
+  {
+    "name": "Depression (592)",
+    "url": "https://www.netmeds.com/prescriptions/depression"
+  },
+  {
+    "name": "Dewormer (0)",
+    "url": "https://www.netmeds.com/prescriptions/dewormer"
+  },
+  {
+    "name": "Diabetes (4036)",
+    "url": "https://www.netmeds.com/prescriptions/diabetes"
+  },
+  {
+    "name": "Diagnostic (8)",
+    "url": "https://www.netmeds.com/prescriptions/diagnostic"
+  },
+  {
+    "name": "Diarrhoea (248)",
+    "url": "https://www.netmeds.com/prescriptions/diarrhoea"
+  },
+  {
+    "name": "Dietary Management (0)",
+    "url": "https://www.netmeds.com/prescriptions/dietary-management"
+  },
+  {
+    "name": "Digestion (123)",
+    "url": "https://www.netmeds.com/prescriptions/digestion"
+  },
+  {
+    "name": "Dry Eye (238)",
+    "url": "https://www.netmeds.com/prescriptions/dry-eye"
+  },
+  {
+    "name": "Dry Skin (692)",
+    "url": "https://www.netmeds.com/prescriptions/dry-skin"
+  },
+  {
+    "name": "Ear Conditions (58)",
+    "url": "https://www.netmeds.com/prescriptions/ear-conditions"
+  },
+  {
+    "name": "Ectoparasiticide (0)",
+    "url": "https://www.netmeds.com/prescriptions/ectoparasiticide"
+  },
+  {
+    "name": "Electrolytes (0)",
+    "url": "https://www.netmeds.com/prescriptions/electrolytes"
+  },
+  {
+    "name": "Epilepsy/Convulsion (826)",
+    "url": "https://www.netmeds.com/prescriptions/epilepsy-convulsion"
+  },
+  {
+    "name": "Eye Infections (375)",
+    "url": "https://www.netmeds.com/prescriptions/eye-infections"
+  },
+  {
+    "name": "Eye conditions (229)",
+    "url": "https://www.netmeds.com/prescriptions/other-eye-conditions"
+  },
+  {
+    "name": "Fever (276)",
+    "url": "https://www.netmeds.com/prescriptions/fever"
+  },
+  {
+    "name": "Fungal (0)",
+    "url": "https://www.netmeds.com/prescriptions/fungal"
+  },
+  {
+    "name": "Fungal Infections (1315)",
+    "url": "https://www.netmeds.com/prescriptions/fungal-infections"
+  },
+  {
+    "name": "Gastro Intestinal Motility Disorders (33)",
+    "url": "https://www.netmeds.com/prescriptions/gastro-intestinal-motility-disorders"
+  },
+  {
+    "name": "General-P (1)",
+    "url": "https://www.netmeds.com/prescriptions/general"
+  },
+  {
+    "name": "Glaucoma (178)",
+    "url": "https://www.netmeds.com/prescriptions/glaucoma"
+  },
+  {
+    "name": "Gout (112)",
+    "url": "https://www.netmeds.com/prescriptions/gout"
+  },
+  {
+    "name": "H.Pylori Infection (10)",
+    "url": "https://www.netmeds.com/prescriptions/h-pylori-infection"
+  },
+  {
+    "name": "Haematopoiesis (18)",
+    "url": "https://www.netmeds.com/prescriptions/haematopoiesis"
+  },
+  {
+    "name": "Haemorrhoid (41)",
+    "url": "https://www.netmeds.com/prescriptions/haemorrhoid"
+  },
+  {
+    "name": "Hair Color - P (3)",
+    "url": "https://www.netmeds.com/prescriptions/hair-color-p"
+  },
+  {
+    "name": "Hair Loss (304)",
+    "url": "https://www.netmeds.com/prescriptions/hair-loss"
+  },
+  {
+    "name": "Head Lice (1)",
+    "url": "https://www.netmeds.com/prescriptions/head-lice"
+  },
+  {
+    "name": "Heart Failure (52)",
+    "url": "https://www.netmeds.com/prescriptions/heart-failure"
+  },
+  {
+    "name": "Hepatitis B Infection (0)",
+    "url": "https://www.netmeds.com/prescriptions/hepatitis-b-infection"
+  },
+  {
+    "name": "High Cholesterol (1258)",
+    "url": "https://www.netmeds.com/prescriptions/high-cholesterol"
+  },
+  {
+    "name": "Hirsutism (1)",
+    "url": "https://www.netmeds.com/prescriptions/hirsutism"
+  },
+  {
+    "name": "Hormonal Therapy (699)",
+    "url": "https://www.netmeds.com/prescriptions/hormonal-therapy"
+  },
+  {
+    "name": "Hyperpigmentation (166)",
+    "url": "https://www.netmeds.com/prescriptions/hyperpigmentation"
+  },
+  {
+    "name": "Hypertension (3464)",
+    "url": "https://www.netmeds.com/prescriptions/hypertension"
+  },
+  {
+    "name": "Hyperthyroidism (23)",
+    "url": "https://www.netmeds.com/prescriptions/hyperthyroidism"
+  },
+  {
+    "name": "Hypnosis (1)",
+    "url": "https://www.netmeds.com/prescriptions/hypnosis"
+  },
+  {
+    "name": "Hyponatremia (15)",
+    "url": "https://www.netmeds.com/prescriptions/hyponatremia"
+  },
+  {
+    "name": "Hypotension (27)",
+    "url": "https://www.netmeds.com/prescriptions/hypotension"
+  },
+  {
+    "name": "Hypothyroidism (106)",
+    "url": "https://www.netmeds.com/prescriptions/hypothyroidism"
+  },
+  {
+    "name": "Idiopathic Pulmonary Fibrosis (28)",
+    "url": "https://www.netmeds.com/prescriptions/idiopathic-pulmonary-fibrosis"
+  },
+  {
+    "name": "Immune Sera (0)",
+    "url": "https://www.netmeds.com/prescriptions/immune-sera"
+  },
+  {
+    "name": "Immune Suppression (34)",
+    "url": "https://www.netmeds.com/prescriptions/immune-suppression"
+  },
+  {
+    "name": "Immunoglobulins (3)",
+    "url": "https://www.netmeds.com/prescriptions/immunoglobulins"
+  },
+  {
+    "name": "Impotence/Erectile Dysfunction (Ed) (126)",
+    "url": "https://www.netmeds.com/prescriptions/impotence-erectile-dysfunction-ed"
+  },
+  {
+    "name": "Infection (0)",
+    "url": "https://www.netmeds.com/prescriptions/infection"
+  },
+  {
+    "name": "Inhaler/Nebulizer (0)",
+    "url": "https://www.netmeds.com/prescriptions/inhaler-nebulizer"
+  },
+  {
+    "name": "Insulin Pen (Device) (0)",
+    "url": "https://www.netmeds.com/prescriptions/insulin-pen-device"
+  },
+  {
+    "name": "Intermittent Claudication (28)",
+    "url": "https://www.netmeds.com/prescriptions/intermittent-claudication"
+  },
+  {
+    "name": "Iron Supplement/Anaemia (367)",
+    "url": "https://www.netmeds.com/prescriptions/iron-supplement-anaemia"
+  },
+  {
+    "name": "Itching/Dry Skin (10)",
+    "url": "https://www.netmeds.com/prescriptions/itching-dry-skin"
+  },
+  {
+    "name": "Kidney Disease/Stones (150)",
+    "url": "https://www.netmeds.com/prescriptions/kidney-disease-stones"
+  },
+  {
+    "name": "LYMPHOEDEMA (0)",
+    "url": "https://www.netmeds.com/prescriptions/lymphoedema"
+  },
+  {
+    "name": "Leprosy (3)",
+    "url": "https://www.netmeds.com/prescriptions/leprosy"
+  },
+  {
+    "name": "Liver Disease (75)",
+    "url": "https://www.netmeds.com/prescriptions/liver-disease"
+  },
+  {
+    "name": "Liver Supplement (0)",
+    "url": "https://www.netmeds.com/prescriptions/liver-supplement"
+  },
+  {
+    "name": "Lubrication (0)",
+    "url": "https://www.netmeds.com/prescriptions/lubrication"
+  },
+  {
+    "name": "Malarial (82)",
+    "url": "https://www.netmeds.com/prescriptions/malarial"
+  },
+  {
+    "name": "Melasma (3)",
+    "url": "https://www.netmeds.com/prescriptions/melasma"
+  },
+  {
+    "name": "Migraine (111)",
+    "url": "https://www.netmeds.com/prescriptions/migraine"
+  },
+  {
+    "name": "Multiple Sclerosis (6)",
+    "url": "https://www.netmeds.com/prescriptions/multiple-sclerosis"
+  },
+  {
+    "name": "Muscle Cramps/Spasticity (218)",
+    "url": "https://www.netmeds.com/prescriptions/muscle-cramps-spasticity"
+  },
+  {
+    "name": "Muscle Spasm (254)",
+    "url": "https://www.netmeds.com/prescriptions/muscle-spasm"
+  },
+  {
+    "name": "Myasthenia Gravis (6)",
+    "url": "https://www.netmeds.com/prescriptions/myasthenia-gravis"
+  },
+  {
+    "name": "Mydriasis (33)",
+    "url": "https://www.netmeds.com/prescriptions/mydriasis"
+  },
+  {
+    "name": "Nappy Rash (1)",
+    "url": "https://www.netmeds.com/prescriptions/nappy-rash"
+  },
+  {
+    "name": "Nasal Congestion (195)",
+    "url": "https://www.netmeds.com/prescriptions/nasal-congestion"
+  },
+  {
+    "name": "Neuropathic Pain (732)",
+    "url": "https://www.netmeds.com/prescriptions/neuropathic-pain"
+  },
+  {
+    "name": "Nootropics And Neurotrophics (195)",
+    "url": "https://www.netmeds.com/prescriptions/nootropics-and-neurotrophics"
+  },
+  {
+    "name": "Obese (0)",
+    "url": "https://www.netmeds.com/prescriptions/obese"
+  },
+  {
+    "name": "Obesity (25)",
+    "url": "https://www.netmeds.com/prescriptions/obesity"
+  },
+  {
+    "name": "Oral Care - P (261)",
+    "url": "https://www.netmeds.com/prescriptions/oral-care-p"
+  },
+  {
+    "name": "Osteoporosis (54)",
+    "url": "https://www.netmeds.com/prescriptions/osteoporosis"
+  },
+  {
+    "name": "Pain relief (1614)",
+    "url": "https://www.netmeds.com/prescriptions/pain"
+  },
+  {
+    "name": "Parasitic Worms (98)",
+    "url": "https://www.netmeds.com/prescriptions/parasitic-worms"
+  },
+  {
+    "name": "Parkinsonism (112)",
+    "url": "https://www.netmeds.com/prescriptions/parkinson"
+  },
+  {
+    "name": "Patanjali Ayurvedic (0)",
+    "url": "https://www.netmeds.com/prescriptions/patanjali-ayurvedic"
+  },
+  {
+    "name": "Pen (Device) (0)",
+    "url": "https://www.netmeds.com/prescriptions/pen-device"
+  },
+  {
+    "name": "Peripheral Hypertension (12)",
+    "url": "https://www.netmeds.com/prescriptions/peripheral-hypertension"
+  },
+  {
+    "name": "Peripheral Vascular Disease (13)",
+    "url": "https://www.netmeds.com/prescriptions/peripheral-vascular-disease"
+  },
+  {
+    "name": "Poisoning/Overdose (27)",
+    "url": "https://www.netmeds.com/prescriptions/poisoning-overdose"
+  },
+  {
+    "name": "Polycystic ovary syndrome(PCOS) (3)",
+    "url": "https://www.netmeds.com/prescriptions/polycystic-ovary-syndrome-pcos"
+  },
+  {
+    "name": "Pregnancy Testing Kit (4)",
+    "url": "https://www.netmeds.com/prescriptions/pregnancy-testing-kit"
+  },
+  {
+    "name": "Premature Ejaculation (2)",
+    "url": "https://www.netmeds.com/prescriptions/premature-ejaculation"
+  },
+  {
+    "name": "Psoriasis (4)",
+    "url": "https://www.netmeds.com/prescriptions/psoriasis"
+  },
+  {
+    "name": "Psoriasis/Seborrhea/Ichthyosis (112)",
+    "url": "https://www.netmeds.com/prescriptions/psoriasis-seborrhea-ichthyosis"
+  },
+  {
+    "name": "Psychosis (209)",
+    "url": "https://www.netmeds.com/prescriptions/psychosis"
+  },
+  {
+    "name": "Pulmonary Arterial Hypertension (Pah) (0)",
+    "url": "https://www.netmeds.com/prescriptions/pulmonary-arterial-hypertension-pah"
+  },
+  {
+    "name": "Rabies (0)",
+    "url": "https://www.netmeds.com/prescriptions/rabies"
+  },
+  {
+    "name": "Rheumatoid Arthritis (32)",
+    "url": "https://www.netmeds.com/prescriptions/rheumatoid-arthritis"
+  },
+  {
+    "name": "Sanitizer (0)",
+    "url": "https://www.netmeds.com/prescriptions/sanitizer"
+  },
+  {
+    "name": "Scabies (80)",
+    "url": "https://www.netmeds.com/prescriptions/scabies"
+  },
+  {
+    "name": "Scar (14)",
+    "url": "https://www.netmeds.com/prescriptions/scar"
+  },
+  {
+    "name": "Schizophrenia (369)",
+    "url": "https://www.netmeds.com/prescriptions/schizophrenia"
+  },
+  {
+    "name": "Skin Infections (906)",
+    "url": "https://www.netmeds.com/prescriptions/skin-infections"
+  },
+  {
+    "name": "Sleep Disorder (Insomnia) (0)",
+    "url": "https://www.netmeds.com/prescriptions/sleep-disorder-insomnia"
+  },
+  {
+    "name": "Smoking cessation (12)",
+    "url": "https://www.netmeds.com/prescriptions/smoking"
+  },
+  {
+    "name": "Stretch Marks (14)",
+    "url": "https://www.netmeds.com/prescriptions/stretch-marks"
+  },
+  {
+    "name": "Sun Protectors (2)",
+    "url": "https://www.netmeds.com/prescriptions/sun-protectors"
+  },
+  {
+    "name": "Sunscreen Preparations (115)",
+    "url": "https://www.netmeds.com/prescriptions/sunscreen-preparations"
+  },
+  {
+    "name": "Supplements (3988)",
+    "url": "https://www.netmeds.com/prescriptions/supplement"
+  },
+  {
+    "name": "Surgicals (23)",
+    "url": "https://www.netmeds.com/prescriptions/surgicals"
+  },
+  {
+    "name": "Syringe (0)",
+    "url": "https://www.netmeds.com/prescriptions/syringe"
+  },
+  {
+    "name": "Targeted Cancer Therapy (0)",
+    "url": "https://www.netmeds.com/prescriptions/targeted-cancer-therapy"
+  },
+  {
+    "name": "Tetanus (0)",
+    "url": "https://www.netmeds.com/prescriptions/tetanus"
+  },
+  {
+    "name": "Thrombotic Disorder (1)",
+    "url": "https://www.netmeds.com/prescriptions/thrombotic-disorder"
+  },
+  {
+    "name": "Tuberculosis (Tb) (0)",
+    "url": "https://www.netmeds.com/prescriptions/tuberculosis-tb"
+  },
+  {
+    "name": "Ulcer/Reflux/Flatulence (1407)",
+    "url": "https://www.netmeds.com/prescriptions/ulcer-reflux-flatulence"
+  },
+  {
+    "name": "Ulcerative Colitis/Bowel Inflammatory Disease (100)",
+    "url": "https://www.netmeds.com/prescriptions/ulcerative-colitis-bowel-inflammatory-disease"
+  },
+  {
+    "name": "Urinary Retention (20)",
+    "url": "https://www.netmeds.com/prescriptions/urinary-retention"
+  },
+  {
+    "name": "Uterus Conditions (22)",
+    "url": "https://www.netmeds.com/prescriptions/uterus-conditions"
+  },
+  {
+    "name": "Uti Infections (6)",
+    "url": "https://www.netmeds.com/prescriptions/uti-infections"
+  },
+  {
+    "name": "Vaccines (13)",
+    "url": "https://www.netmeds.com/prescriptions/vaccines"
+  },
+  {
+    "name": "Vaginal Capsules (0)",
+    "url": "https://www.netmeds.com/prescriptions/vaginal-capsules"
+  },
+  {
+    "name": "Vaginal Conditions (48)",
+    "url": "https://www.netmeds.com/prescriptions/vaginal-conditions"
+  },
+  {
+    "name": "Varicose Veins (25)",
+    "url": "https://www.netmeds.com/prescriptions/varicose-veins"
+  },
+  {
+    "name": "Vertigo (169)",
+    "url": "https://www.netmeds.com/prescriptions/vertigo"
+  },
+  {
+    "name": "Veterinary-Pharma (50)",
+    "url": "https://www.netmeds.com/prescriptions/veterinary-pharma"
+  },
+  {
+    "name": "Viral infections (189)",
+    "url": "https://www.netmeds.com/prescriptions/viral"
+  },
+  {
+    "name": "Vitamin B12 (0)",
+    "url": "https://www.netmeds.com/prescriptions/vitamin-b12"
+  },
+  {
+    "name": "Vitamin C/Supplements (0)",
+    "url": "https://www.netmeds.com/prescriptions/vitamin-c-supplements"
+  },
+  {
+    "name": "Vitamin D3 (0)",
+    "url": "https://www.netmeds.com/prescriptions/vitamin-d3"
+  },
+  {
+    "name": "Vitamin E (0)",
+    "url": "https://www.netmeds.com/prescriptions/vitamin-e"
+  },
+  {
+    "name": "Vitiligo (12)",
+    "url": "https://www.netmeds.com/prescriptions/vitiligo"
+  },
+  {
+    "name": "Vomitting/Emesis (189)",
+    "url": "https://www.netmeds.com/prescriptions/vomitting-emesis"
+  },
+  {
+    "name": "Warts/Calluses/Other Skin Lesion (18)",
+    "url": "https://www.netmeds.com/prescriptions/warts-calluses-other-skin-lesion"
+  },
+  {
+    "name": "Weight Loss (Pharma) (0)",
+    "url": "https://www.netmeds.com/prescriptions/weight-loss"
+  },
+  {
+    "name": "Wound Care (121)",
+    "url": "https://www.netmeds.com/prescriptions/wound"
+  },
+  {
+    "name": "Wrinkle/Anti Ageing (14)",
+    "url": "https://www.netmeds.com/prescriptions/wrinkle-anti-ageing"
+  }
+]
