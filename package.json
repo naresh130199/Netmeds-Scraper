@@ -1,0 +1,16 @@
+{
+  "name": "netmeds-scraper",
+  "version": "1.0.0",
+  "description": "netmeds scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.1.0",
+    "fs": "^0.0.1-security"
+  },
+  "type": "module"
+}
